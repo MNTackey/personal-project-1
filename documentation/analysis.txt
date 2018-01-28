@@ -3,16 +3,18 @@ App Details:
 - Page: Attach document(s) via scanner ()
 - Page: Overview + criteria
 - [W2H] Feature: Search filters, e.g. show personnel - inc docu, show personnel - complete docu
-- Listing: Uses unique ID number of people for list
+- Listing: Uses serial number of people for list
 - File Overview: Shows picture associated w/ person, lists down attached docus (latest to oldest)
 - Per file attachment: has optional note/comment
 - [2E] Bulk insert
 - Records database will have permissions, e.g. view-only, can read&write (if logged in as admin)
+- System can add/edit personnel to the list, or remove (in case there is a duplicate; requires authentication)
 
 Questions:
-- If documents from the previous year(s) are not fulfilled, will it affect the issuance of items for the fiscal year?
-- How is your current index arranged?
+- If documents from the previous year(s) are not fulfilled, will it affect the issuance of items for the fiscal year? YES
+- How is your current index/catalog arranged?
 - How to apply the app to the server?
 - Check system reqs
 - Do they have existing tables?
+- What documents do you annually collect? Are there any special documents you also receive?
 - Should the application be primarily for back-end use (the user)? or front-end(the admin)?
